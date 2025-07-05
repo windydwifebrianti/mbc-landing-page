@@ -9,6 +9,7 @@ Website ini dibangun menggunakan teknologi web modern dan telah dideploy secara 
 ## 📁 Struktur Proyek
 
 📦img
+
  ┣ 📜big-data.jpg
  
  ┣ 📜bigdata2.jpg
@@ -40,6 +41,7 @@ Website ini dibangun menggunakan teknologi web modern dan telah dideploy secara 
  📦js
  
  ┗ 📜script.js
+ 
  index.html
  style.css
  README.md
