@@ -7,22 +7,38 @@ Website ini dibangun menggunakan teknologi web modern dan telah dideploy secara 
 🔗 https://mbc-landing-page-rsbn-windy-dwi-febriantis-projects.vercel.app/
 ---
 ## 📁 Struktur Proyek
+
 📦img
  ┣ 📜big-data.jpg
+ 
  ┣ 📜bigdata2.jpg
+
  ┣ 📜cyber-1.jpg
+ 
  ┣ 📜cyber-2.jpg
+ 
  ┣ 📜game-1.jpg
+ 
  ┣ 📜game-2.jpg
+ 
  ┣ 📜gis-1.jpg
+ 
  ┣ 📜gis-2.jpg
+ 
  ┣ 📜header-bg1.jpg
+ 
  ┣ 📜header-bg2.jpg
+ 
  ┣ 📜header-bg3.jpg
+ 
  ┣ 📜header-bg4.jpg
+ 
  ┣ 📜header-bg5.jpg
+ 
  ┗ 📜tentang-kami.png
+ 
  📦js
+ 
  ┗ 📜script.js
  index.html
  style.css
